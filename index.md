@@ -10,7 +10,6 @@ I simply just tried to test how headings are working.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-''' javascript
+``` javascript
 var myVar = "Hello, world!";
-'''
-var myVar = "Hello, world!";
+```

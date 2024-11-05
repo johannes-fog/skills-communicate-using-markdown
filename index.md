@@ -8,3 +8,8 @@ I simply just tried to test how headings are working.
 # Inserting an image 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+''' javascript
+var myVar = "Hello, world!";
+'''

@@ -13,3 +13,4 @@ I simply just tried to test how headings are working.
 ''' javascript
 var myVar = "Hello, world!";
 '''
+var myVar = "Hello, world!";
